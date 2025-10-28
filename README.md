@@ -30,7 +30,7 @@ feedback-form/
 
 ⚙️ How to Run
 
-Clone the repository
+Clone the repository :
 
 git clone https://github.com/your-username/feedback-form.git
 cd feedback-form
