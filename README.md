@@ -59,12 +59,6 @@ After a few submissions, your file might look like this 👇
     "email": "ashnikkob001@gmail.com",
     "feedback": "Loved the design!",
     "date": "10/28/2025, 9:40:12 PM"
-  },
-  {
-    "name": "Rohit",
-    "email": "rohit123@gmail.com",
-    "feedback": "Super easy to use!",
-    "date": "10/28/2025, 9:42:30 PM"
   }
 ]
 
